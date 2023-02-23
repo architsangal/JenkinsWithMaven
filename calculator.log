@@ -1,0 +1,32 @@
+2023-02-23 12:21:28.538 [main] INFO  calculator.Calculator - [SQUARE] - 4.0
+2023-02-23 12:21:28.540 [main] INFO  calculator.Calculator - [RESULT - SQUARE] - 16.0
+2023-02-23 12:21:28.540 [main] INFO  calculator.Calculator - [SQUARE] - 1.0
+2023-02-23 12:21:28.541 [main] INFO  calculator.Calculator - [RESULT - SQUARE] - 1.0
+2023-02-23 12:21:28.541 [main] INFO  calculator.Calculator - [SQUARE] - 3.0
+2023-02-23 12:21:28.541 [main] INFO  calculator.Calculator - [RESULT - SQUARE] - 9.0
+2023-02-23 12:21:28.541 [main] INFO  calculator.Calculator - [SQUARE] - 4.0
+2023-02-23 12:21:28.541 [main] INFO  calculator.Calculator - [RESULT - SQUARE] - 16.0
+2023-02-23 12:21:28.545 [main] INFO  calculator.Calculator - [SUBTRACTION - 3.0 FROM 5.0
+2023-02-23 12:21:28.545 [main] INFO  calculator.Calculator - [RESULT - SUBTRACTION] - 2.0
+2023-02-23 12:21:28.545 [main] INFO  calculator.Calculator - [SUBTRACTION - 8.0 FROM 6.0
+2023-02-23 12:21:28.546 [main] INFO  calculator.Calculator - [RESULT - SUBTRACTION] - -2.0
+2023-02-23 12:21:28.546 [main] INFO  calculator.Calculator - [MULTIPLICATION - 5.0 AND 3.0
+2023-02-23 12:21:28.546 [main] INFO  calculator.Calculator - [RESULT - MULTIPLICATION] - 15.0
+2023-02-23 12:21:28.546 [main] INFO  calculator.Calculator - [MULTIPLICATION - 6.0 AND 4.0
+2023-02-23 12:21:28.546 [main] INFO  calculator.Calculator - [RESULT - MULTIPLICATION] - 24.0
+2023-02-23 12:21:28.547 [main] INFO  calculator.Calculator - [CUBE ROOT] - 125.0
+2023-02-23 12:21:28.547 [main] INFO  calculator.Calculator - [RESULT - CUBE ROOT] - 5.0
+2023-02-23 12:21:28.547 [main] INFO  calculator.Calculator - [CUBE ROOT] - -125.0
+2023-02-23 12:21:28.547 [main] INFO  calculator.Calculator - [RESULT - CUBE ROOT] - -5.0
+2023-02-23 12:21:28.547 [main] INFO  calculator.Calculator - [SUBTRACTION - 8.0 FROM 5.0
+2023-02-23 12:21:28.547 [main] INFO  calculator.Calculator - [RESULT - SUBTRACTION] - -3.0
+2023-02-23 12:21:28.547 [main] INFO  calculator.Calculator - [SUBTRACTION - 4.0 FROM 5.0
+2023-02-23 12:21:28.548 [main] INFO  calculator.Calculator - [RESULT - SUBTRACTION] - 1.0
+2023-02-23 12:21:28.548 [main] INFO  calculator.Calculator - [MULTIPLICATION - 5.0 AND 8.0
+2023-02-23 12:21:28.548 [main] INFO  calculator.Calculator - [RESULT - MULTIPLICATION] - 40.0
+2023-02-23 12:21:28.548 [main] INFO  calculator.Calculator - [MULTIPLICATION - 4.0 AND 10.0
+2023-02-23 12:21:28.548 [main] INFO  calculator.Calculator - [RESULT - MULTIPLICATION] - 40.0
+2023-02-23 12:21:28.548 [main] INFO  calculator.Calculator - [CUBE ROOT] - 121.0
+2023-02-23 12:21:28.548 [main] INFO  calculator.Calculator - [RESULT - CUBE ROOT] - 4.946087443248701
+2023-02-23 12:21:28.548 [main] INFO  calculator.Calculator - [CUBE ROOT] - 8.0
+2023-02-23 12:21:28.548 [main] INFO  calculator.Calculator - [RESULT - CUBE ROOT] - 2.0
